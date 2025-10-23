@@ -1,0 +1,6 @@
+skl2onnx == 1.18.0
+imblearn == 0.0
+scikit-learn
+pandas
+numpy
+flask

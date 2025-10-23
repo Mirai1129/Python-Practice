@@ -1,0 +1,12 @@
+[submodule "NPUST/projects/System-Analysis-Line-Bot"]
+	path = NPUST/projects/System-Analysis-Line-Bot
+	url = https://github.com/Mirai1129/System-Analysis-Line-Bot.git
+[submodule "NPUST/projects/LandSurveyingAndMapping"]
+	path = NPUST/projects/LandSurveyingAndMapping
+	url = https://github.com/Mirai1129/LandSurveyingAndMapping.git
+[submodule "NPUST/projects/Crawler-Discord-Bot"]
+	path = NPUST/projects/Crawler-Discord-Bot
+	url = https://github.com/Mirai1129/Crawler-Discord-Bot.git
+[submodule "NYUST/projects/Object-Oriented-Software-Engineering"]
+	path = NYUST/projects/Object-Oriented-Software-Engineering
+	url = https://github.com/Mirai1129/Object-Oriented-Software-Engineering.git
