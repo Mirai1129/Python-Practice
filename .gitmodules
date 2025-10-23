@@ -10,3 +10,6 @@
 [submodule "NYUST/projects/Object-Oriented-Software-Engineering"]
 	path = NYUST/projects/Object-Oriented-Software-Engineering
 	url = https://github.com/Mirai1129/Object-Oriented-Software-Engineering.git
+[submodule "NPUST/projects/shopping-web-final"]
+	path = NPUST/projects/shopping-web-final
+	url = https://github.com/Mirai1129/shopping-web-final.git
